@@ -23,7 +23,7 @@
 
 #### 公開エントリー
 
-- 企業ページリプレイス ~OpenAPI の活用~
+- 企業ページリプレイス OpenAPI の活用
   https://developers.prtimes.jp/2021/11/01/%e4%bc%81%e6%a5%ad%e3%83%9a%e3%83%bc%e3%82%b8%e3%83%aa%e3%83%97%e3%83%ac%e3%82%a4%e3%82%b9-openapi%e3%81%ae%e6%b4%bb%e7%94%a8/
 - 新卒エンジニアがプレスリリース画像の画質改善に取り組んだ話
   https://developers.prtimes.jp/2022/02/24/press_release_image_optimization/
